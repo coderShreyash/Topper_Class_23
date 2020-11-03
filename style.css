@@ -1,0 +1,13 @@
+li{
+    font-size: 20px;
+    padding: 20px;
+    list-style: none;
+    letter-spacing: 1.2px;
+    font-weight: bold;
+    color: aliceblue;
+}
+body{
+    background:url("https://einsteinperspectives.com/wp-content/uploads/2020/02/Coronavirus-1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
